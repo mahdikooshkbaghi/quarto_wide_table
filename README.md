@@ -1,6 +1,6 @@
 # quarto_wide_table
 
-Here is the command I am using now:
+Run the following command:
 
 ```bash
 quarto render wide_table.ipynb
